@@ -1,0 +1,122 @@
+[
+  {
+    "flight_id": 1,
+    "destination1": "Istanbul",
+    "destination2": "Ankara",
+    "date": "02.04.2024",
+    "travelModel": {
+      "image": "varan",
+      "time": "10:00",
+      "price": "50$"
+    },
+    "sold_seat_numbers": ["5", "12"]
+  },
+  {
+    "flight_id": 6,
+    "destination1": "Istanbul",
+    "destination2": "Ankara",
+    "date": "02.04.2024",
+    "travelModel": {
+      "image": "varan",
+      "time": "90:00",
+      "price": "30$"
+    },
+    "sold_seat_numbers": ["5", "12"]
+  },
+  {
+    "flight_id": 2,
+    "destination1": "Istanbul",
+    "destination2": "Izmir",
+    "date": "02.04.2024",
+    "travelModel": {
+      "image": "varan",
+      "time": "12:00",
+      "price": "55$"
+    },
+    "sold_seat_numbers": ["3", "17"]
+  },
+  {
+    "flight_id": 3,
+    "destination1": "Istanbul",
+    "destination2": "Bursa",
+    "date": "03.04.2024",
+    "travelModel": {
+      "image": "varan",
+      "time": "14:00",
+      "price": "60$"
+    },
+    "sold_seat_numbers": ["8", "15"]
+  },
+  {
+    "flight_id": 4,
+    "destination1": "Istanbul",
+    "destination2": "Antalya",
+    "date": "04.04.2024",
+    "travelModel": {
+      "image": "varan",
+      "time": "16:00",
+      "price": "65$"
+    },
+    "sold_seat_numbers": ["1", "20"]
+  },
+  {
+    "flight_id": 5,
+    "destination1": "Istanbul",
+    "destination2": "Trabzon",
+    "date": "05.04.2024",
+    "travelModel": {
+      "image": "varan",
+      "time": "18:00",
+      "price": "70$"
+    },
+    "sold_seat_numbers": ["6", "10"]
+  },
+  {
+    "flight_id": 7,
+    "destination1": "Istanbul",
+    "destination2": "Eskişehir",
+    "date": "06.04.2024",
+    "travelModel": {
+      "image": "pamukkale",
+      "time": "11:00",
+      "price": "45$"
+    },
+    "sold_seat_numbers": ["2", "18"]
+  },
+  {
+    "flight_id": 8,
+    "destination1": "Istanbul",
+    "destination2": "Konya",
+    "date": "07.04.2024",
+    "travelModel": {
+      "image": "metro",
+      "time": "13:00",
+      "price": "40$"
+    },
+    "sold_seat_numbers": ["4", "14"]
+  },
+  {
+    "flight_id": 9,
+    "destination1": "Istanbul",
+    "destination2": "Diyarbakır",
+    "date": "08.04.2024",
+    "travelModel": {
+      "image": "kamilKoc",
+      "time": "15:00",
+      "price": "55$"
+    },
+    "sold_seat_numbers": ["7", "11"]
+  },
+  {
+    "flight_id": 10,
+    "destination1": "Istanbul",
+    "destination2": "Mersin",
+    "date": "09.04.2024",
+    "travelModel": {
+      "image": "luks-artvin-seyahat",
+      "time": "17:00",
+      "price": "75$"
+    },
+    "sold_seat_numbers": ["9", "19"]
+  }
+]

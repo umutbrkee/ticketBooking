@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "travel-ticket-bus-train-hotel-public-transport-event-tickets-internet-booking-engine-public-transport-bus-service-png-clipart.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

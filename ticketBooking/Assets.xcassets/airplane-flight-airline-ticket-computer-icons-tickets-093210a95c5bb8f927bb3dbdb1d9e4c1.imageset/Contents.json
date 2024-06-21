@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "airplane-flight-airline-ticket-computer-icons-tickets-093210a95c5bb8f927bb3dbdb1d9e4c1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

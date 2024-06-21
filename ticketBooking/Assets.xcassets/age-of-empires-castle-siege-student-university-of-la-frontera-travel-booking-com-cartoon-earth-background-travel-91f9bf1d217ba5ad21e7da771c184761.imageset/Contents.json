@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "age-of-empires-castle-siege-student-university-of-la-frontera-travel-booking-com-cartoon-earth-background-travel-91f9bf1d217ba5ad21e7da771c184761.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
